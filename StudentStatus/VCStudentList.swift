@@ -31,7 +31,7 @@ class VCStudentList: UIViewController, UITableViewDataSource, UITableViewDelegat
         //print("VCStudentList.viewWillAppear")
         setHeadings()
         tableView.reloadData()
-        //print("VCStudentList.Did reloadData")
+        //print("VCStudentList.Did reloadData") test
     }
     
     func setHeadings() {
